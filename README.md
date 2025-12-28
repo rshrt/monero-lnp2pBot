@@ -1,5 +1,7 @@
 ![LNp2pBot](logo-600.png)
 
+[this section will be updated after the project is completed for the xmr version]
+
 [![chat](https://img.shields.io/badge/chat-telegram-%2326A5E4)](https://t.me/lnp2pbot) [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 # LNp2pBot
 Telegram bot that allows people to trade using lightning network with other people on telegram, this is an open source project and anyone can create issues, submit a PR, fork it, modify it or create their own bot with the code.
